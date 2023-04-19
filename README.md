@@ -14,9 +14,9 @@ Software Architect, Engineer & Cons. Sr. Back End Developer
 * 🌍 Moro em São Paulo - Brasil
 * 🖥️ Veja meu portfólio no [Linkedin](http://www.linkedin.com/in/danilo-o-pinheiro/)
 * ✉️ Você pode entrar em contato comigo em [daniloopro@gmail.com](mailto:daniloopro@gmail.com)
-* 🚀 Atualmente estou trabalhando no [Act Digital](http://actdigital.com/pt/)
+* 🚀 Atualmente estou trabalhando na [Act Digital](http://actdigital.com/pt/)
 
-# Certificações
+## Certificações
 
 <a><img src="https://images.credly.com/size/110x110/images/9d725560-03a5-4577-884d-26c8776b0b4b/LRA-DomainDrivenDesign-badge.png" width="50" height="50" alt="" />
 </a>
@@ -33,7 +33,6 @@ Software Architect, Engineer & Cons. Sr. Back End Developer
 <a><img src="https://images.credly.com/size/110x110/images/78fc0757-e9d9-4e92-936e-2490815b4965/image.png" width="50" height="50" alt="" />
 </a>
 <a><img src="https://images.credly.com/size/110x110/images/3be57d7c-55de-4119-9ca9-738e20c0fae0/Scrum-Foundation-Professional-Certificate-SFPC-2021_.png" width="50" height="50" alt="" />
-</a>
 <a><img src="https://images.credly.com/size/110x110/images/f5cf37e4-6ebd-4067-96a9-b26d04f51ff7/CertiProf-Badge-LLL.png" width="50" height="50" alt="" />
 </a>
 <a><img src="https://images.credly.com/size/110x110/images/f3de2561-27e7-4b48-a2c1-223f821318f2/image.png" width="50" height="50" alt="" />
@@ -53,6 +52,9 @@ Software Architect, Engineer & Cons. Sr. Back End Developer
 <a><img src="https://images.credly.com/size/110x110/images/42992295-0ee2-4527-982d-e51efbec40fc/dynamics365-fundamentals-crm-600x600.png" width="50" height="50" alt="" />
 </a>
 <a><img src="https://images.credly.com/size/110x110/images/fc1352af-87fa-4947-ba54-398a0e63322e/security-compliance-and-identity-fundamentals-600x600.png" width="50" height="50" alt="" />
+<a><img src="https://user-images.githubusercontent.com/64677271/232635806-e8458204-c9bf-48d0-8a3e-9a3947a6dbb4.png" width="50" height="50" alt="" />
+</a>
+<a><img src="https://user-images.githubusercontent.com/64677271/232855403-5454ed45-271d-4982-905c-b624e663a3f7.png" width="50" height="50" alt="" />
 </a>
 <a><img src="https://images.credly.com/size/110x110/images/601d9906-7c88-4c5d-a5e5-5d32f97fb80d/39284104c55c4a2e8c1a6ff090181106-01.png" width="50" height="50" alt="" />
 </a>
@@ -61,7 +63,7 @@ Software Architect, Engineer & Cons. Sr. Back End Developer
 <a><img src="https://images.credly.com/size/110x110/images/22778972-ff6d-4d02-9ce3-f1230ac025a0/120e27f93a9f4735b2a9e912cc6f8455-01.png" width="50" height="50" alt="" />
 </a>
 <a><img src="https://images.credly.com/size/110x110/images/56dc09c1-cffd-4726-9d91-a629dfb9e0f7/a8efe67be32442aa97727bbfce6048fd-01.png" width="50" height="50" alt="" />
-</a>
+</a>    
 <a><img src="https://developers.google.com/static/profile/badges/events/io/2023/attendee/badge.svg" width="50" height="50" alt="" />
 </a>
 <a><img src="https://cncf-branding.netlify.app/img/projects/argo/icon/color/argo-icon-color.png" width="50" height="50" alt="" />
@@ -109,14 +111,13 @@ Software Architect, Engineer & Cons. Sr. Back End Developer
 <a><img src="https://user-images.githubusercontent.com/64677271/229296400-f2bd3766-1862-48ef-b6c7-26afeed242d2.png" width="50" height="50" alt="" />
 </a>
 
-
 <!--
 <a><img src="" width="50" height="50" alt="" />
 </a>
 -->
 
 
-# Habilidades 
+## Habilidades 
 
 - Clouds
 
@@ -176,7 +177,7 @@ Software Architect, Engineer & Cons. Sr. Back End Developer
 
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React Native" /></a>
-<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/452238/jb-kotlin.svg" width="36" height="36" alt="Kotlin" /></a>
+<a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/452238/jb-kotlin.svg" width="36" height="36" alt="Kotlin" /></a>
 </p>
 
 - DevOps / Tools
@@ -205,7 +206,7 @@ Software Architect, Engineer & Cons. Sr. Back End Developer
 -->
 </p>               
 
-# Redes Sociais
+## Redes Sociais
 
 <p align="left"> 
 <a href="https://www.facebook.com/dopskilldev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/daniloopinheiro" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" />
@@ -240,9 +241,11 @@ Software Architect, Engineer & Cons. Sr. Back End Developer
 
 <b>Minhas estatísticas do GitHub</b>
 
-<a href="http://www.github.com/daniloopinheiro"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=daniloopinheiro&bg_color=831843&color=facc15&line=000000&point=facc15&area_color=831843&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
+<a href="http://www.github.com/daniloopinheiro"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=daniloopinheiro&bg_color=831843&color=facc15&line=000000&point=facc15&area_color=831843&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> 
+
 
 ### Outros Repositórios :
   
   * [GitHub - Educacional](https://github.com/DaniloOP1381521)<br>
   * [GitHub - Canal YouTube](https://github.com/dopskilldev)
+-->
